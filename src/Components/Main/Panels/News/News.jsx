@@ -2,7 +2,7 @@ import React from "react";
 
 export default function News() {
     return (
-    <div className="news" id="news">
+    <div className="News" id="News">
       <h4>News</h4>
       <p> The latest news about the players and the club results here.
         <br/>

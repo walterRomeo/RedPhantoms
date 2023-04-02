@@ -2,7 +2,7 @@ import React from "react";
 
 export default function League() {
     return (
-    <div className="league" id="league">
+    <div className="League" id="League">
       <h4>League</h4>
       <p> League information here
         <br/>
