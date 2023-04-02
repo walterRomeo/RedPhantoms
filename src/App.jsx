@@ -12,7 +12,7 @@ export default function App() {
         <Navigation />
         <RPHeader />
         <Main/>
-        <RPFooter/>
+        <RPFooter/> 
     </div>
   );
 }
