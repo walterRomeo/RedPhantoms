@@ -2,7 +2,6 @@ import React from "react";
 import Panels from "./Panels/Panels";
 import Sponsors from "../Footer/RPFooter";
 
-
 export default function Main() {
     return(
         <div className="main">

@@ -1,9 +1,9 @@
 import React from "react"
-import Merchandise from "./Merchandise/Merchandise"
 import About from "./About/About"
-import League from "./League/League"
 import News from "./News/News"
 import Videos from "./Videos/Videos"
+import League from "./League/League"
+import Merchandise from "./Merchandise/Merchandise"
 
 export default function Panels() {
   return (

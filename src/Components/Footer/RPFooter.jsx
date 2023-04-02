@@ -1,9 +1,9 @@
 import React from "react"
 
-export default function Sponsors(){
+export default function RPFooter(){
     return (
-        <div className="sponsors">
-            <h3>Sponsors</h3>
+        <div className="footer">
+            <h3>Footer</h3>
         </div>
     )
 }
