@@ -4,16 +4,19 @@ import News from "./News/News"
 import Videos from "./Videos/Videos"
 import League from "./League/League"
 import Merchandise from "./Merchandise/Merchandise"
+import ContactUs from "./Contact/Contact"
 
-export default function Panels() {
+ function Panels() {
   return (
     <div className="panels">
-      <h3>Panels</h3>
       <About />
       <News />
       <Videos />
       <League/>
       <Merchandise/>
+      <ContactUs/>
     </div>
   )
 }
+
+export default Panels;
