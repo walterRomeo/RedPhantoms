@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RedPhantoms/static/css/main.d854dd30.css",
+    "main.js": "/RedPhantoms/static/js/main.a8b39ed2.js",
+    "static/js/787.ec89978b.chunk.js": "/RedPhantoms/static/js/787.ec89978b.chunk.js",
+    "index.html": "/RedPhantoms/index.html",
+    "main.d854dd30.css.map": "/RedPhantoms/static/css/main.d854dd30.css.map",
+    "main.a8b39ed2.js.map": "/RedPhantoms/static/js/main.a8b39ed2.js.map",
+    "787.ec89978b.chunk.js.map": "/RedPhantoms/static/js/787.ec89978b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d854dd30.css",
+    "static/js/main.a8b39ed2.js"
+  ]
+}
