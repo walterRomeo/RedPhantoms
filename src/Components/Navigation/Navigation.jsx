@@ -1,5 +1,6 @@
 import React,  { useState } from "react";
 
+//Navigation finds and goes to id on the page 
 const Navigation = () => {
     const [selectedNavigationItem, setSelectedNavigationItem] = useState("About");
     const navigationItems = [

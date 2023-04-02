@@ -1,19 +1,26 @@
 import React from "react";
 
+// Contact and send
 export default function ContactUs() {
     return (
     <div className="ContactUs" id="ContactUs">
       <h4>Contact Us</h4>
-        <p> 
-          The club as it is and basic information about its history
-          It all began in 1900 when someone made the club.
-          it has been a long time and we have come a long way.
-          <br/>
-          The club is under the director Mr Director and the board is listed on ASX.
-          <br/>
-          The club has won a lot of recent trophies.
-          They have also been active in the local community.
-        </p>
+      <form method="post">
+        <label for="firstname">First name: </label>
+        <input type="text" title="firstname" placeholder="Enter first name." required/>
+        <br/>
+        <label for="lastname">Last name: </label>        
+        <input type="text" title="lastname" placeholder="Enter last name" required/>
+        <br/>
+        <label for="email">Email: </label>
+        <input type="email" title="email" placeholder="Enter email" required/>
+        <br/>
+        <input type="checkbox" name="newsletter" checked/>
+        <textarea rows="5" cols="40" placeholder="Enter your message to the team here" required/>
+        <br/>
+        <button type="submit">Send</button><br/>
+   
+        </form>
     </div>
     )
 }

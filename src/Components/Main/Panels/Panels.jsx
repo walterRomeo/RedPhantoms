@@ -6,6 +6,7 @@ import League from "./League/League"
 import Merchandise from "./Merchandise/Merchandise"
 import ContactUs from "./Contact/Contact"
 
+// Assemble sections in required order
  function Panels() {
   return (
     <div className="panels">

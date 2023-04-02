@@ -1,5 +1,5 @@
 import React from "react";
-
+// Render sponsors on the left side
 function Sponsors() {
     return (
       <div className="sponsors">

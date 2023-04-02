@@ -1,5 +1,6 @@
 import React from "react";
 
+//Place to update the newest information about the club
 export default function News() {
     return (
     <div className="News" id="News">
