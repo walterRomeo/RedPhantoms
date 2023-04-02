@@ -3,7 +3,7 @@ import React from "react"
 export default function RPFooter(){
     return (
         <div className="footer">
-            <h3>Footer</h3>
+                <small>&copy;Copyright Red Phantoms Football Club 2023</small> Socials and other stuff.
         </div>
     )
 }
